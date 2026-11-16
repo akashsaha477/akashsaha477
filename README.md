@@ -1,6 +1,10 @@
 <h1 align="center">Hi, I'm Akash Saha 👋</h1>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3987E5&center=true&vCenter=true&width=600&lines=Machine+learning+%C2%B7+Computer+vision;Generative+models+for+medical+signals;Building+ApexLens+%E2%80%94+F1+analytics;Distributed+learning+%40+DARA" alt="Machine learning · Computer vision · Generative models · ApexLens · DARA">
+</p>
+
+<p align="center">
   Student at <b>IIT Kanpur</b> · I build machine-learning systems that are measured honestly —<br>
   generative models for medical signals, computer vision on real roads, and explainable sports analytics.
 </p>
@@ -79,9 +83,34 @@ and [Python](https://github.com/akashsaha477/DSA_NeetCode.py)
 
 ### 🛠️ Tools I work with
 
-**ML & data** &nbsp; PyTorch · scikit-learn · LightGBM · SHAP · pandas · NumPy · OpenCV · Ultralytics YOLO<br>
-**Backend & web** &nbsp; FastAPI · React · TypeScript · Vite · Tailwind · MongoDB · Docker<br>
-**Languages** &nbsp; Python · C++ · TypeScript / JavaScript
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,ts,js,pytorch,sklearn,opencv,fastapi,react,vite,tailwind,mongodb,docker,git,linux&perline=8" alt="Python, C++, TypeScript, JavaScript, PyTorch, scikit-learn, OpenCV, FastAPI, React, Vite, Tailwind, MongoDB, Docker, Git, Linux">
+</p>
+<p align="center"><sub>plus LightGBM · SHAP · pandas · NumPy · Ultralytics YOLO · EasyOCR</sub></p>
+
+---
+
+### 📊 GitHub activity
+
+<p align="center">
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Contribution summary" width="100%">
+</p>
+<p align="center">
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" height="170">
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most-committed languages" height="170">
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=akashsaha477&theme=tokyonight&hide_border=true" alt="Contribution streak">
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akashsaha477&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" width="100%">
+</p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akashsaha477/akashsaha477/output/github-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/akashsaha477/akashsaha477/output/github-snake.svg" alt="Snake eating the contribution graph">
+  </picture>
+</p>
 
 ---
 
