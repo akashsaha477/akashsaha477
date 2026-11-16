@@ -68,6 +68,15 @@ and [Python](https://github.com/akashsaha477/DSA_NeetCode.py)
 
 ---
 
+### 🔒 Currently cooking
+
+- 🌐 **DARA** — distributed learning at scale, across ML, RL and deep learning. More soon.
+- 🧠 **A transformer project** — under wraps for now.
+
+<sub>Private for now. Code and write-ups will land here when they're ready.</sub>
+
+---
+
 ### 🛠️ Tools I work with
 
 **ML & data** &nbsp; PyTorch · scikit-learn · LightGBM · SHAP · pandas · NumPy · OpenCV · Ultralytics YOLO<br>
