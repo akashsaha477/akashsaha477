@@ -93,13 +93,6 @@ and [Python](https://github.com/akashsaha477/DSA_NeetCode.py)
 ### 📊 GitHub activity
 
 <p align="center">
-  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Contribution summary" width="100%">
-</p>
-<p align="center">
-  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" height="170">
-  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most-committed languages" height="170">
-</p>
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=akashsaha477&theme=tokyonight&hide_border=true" alt="Contribution streak">
 </p>
 <p align="center">
